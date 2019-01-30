@@ -14,6 +14,7 @@
 		904AE9B921FED57900B1B247 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 904AE9B721FED57900B1B247 /* LaunchScreen.storyboard */; };
 		904AE9C421FED57900B1B247 /* tipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904AE9C321FED57900B1B247 /* tipCalculatorTests.swift */; };
 		904AE9CF21FED57900B1B247 /* tipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904AE9CE21FED57900B1B247 /* tipCalculatorUITests.swift */; };
+		904AE9DD220190B900B1B247 /* settingsViewControlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904AE9DC220190B900B1B247 /* settingsViewControlerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		904AE9CA21FED57900B1B247 /* tipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		904AE9CE21FED57900B1B247 /* tipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalculatorUITests.swift; sourceTree = "<group>"; };
 		904AE9D021FED57A00B1B247 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		904AE9DC220190B900B1B247 /* settingsViewControlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingsViewControlerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				904AE9AE21FED57700B1B247 /* AppDelegate.swift */,
 				904AE9B021FED57700B1B247 /* ViewController.swift */,
 				904AE9B221FED57700B1B247 /* Main.storyboard */,
+				904AE9DC220190B900B1B247 /* settingsViewControlerViewController.swift */,
 				904AE9B521FED57900B1B247 /* Assets.xcassets */,
 				904AE9B721FED57900B1B247 /* LaunchScreen.storyboard */,
 				904AE9BA21FED57900B1B247 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				904AE9B121FED57700B1B247 /* ViewController.swift in Sources */,
 				904AE9AF21FED57700B1B247 /* AppDelegate.swift in Sources */,
+				904AE9DD220190B900B1B247 /* settingsViewControlerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
